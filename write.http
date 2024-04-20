@@ -1,0 +1,11 @@
+###
+#
+POST http://localhost:8090/log-event
+Content-Type: application/json
+
+{
+  "first_name":"Hugh",
+  "last_name":"Brien",
+  "email":"hbrien@cisco.com",
+  "dob":"10/12/1966"
+}
